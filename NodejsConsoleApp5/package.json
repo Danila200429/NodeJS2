@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-console-app5",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp5",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  },
+  "eslintConfig": {
+  }
+}
